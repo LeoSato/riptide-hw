@@ -172,6 +172,7 @@
 <text x="1.016" y="89.408" size="1.778" layer="21">Battery Out</text>
 <text x="1.778" y="19.05" size="1.778" layer="21">Battery Input 2</text>
 <text x="22.86" y="48.514" size="1.778" layer="21" rot="R90">Battery Input 1</text>
+<text x="4.826" y="6.35" size="1.778" layer="21">Power Management Board</text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
